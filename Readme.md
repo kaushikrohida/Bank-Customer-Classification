@@ -1,4 +1,4 @@
-# Bank Churn Prediction Project
+# Bank Customer Churn Classification (Prediction) Project
 
 ## Overview
 
